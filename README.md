@@ -19,3 +19,21 @@ BatteryCurveAI/
 ├── LICENSE                   # 许可证（如 MIT）
 └── .gitignore                # 忽略临时文件、模型文件等
 ```
+## 🚀 快速开始
+
+### 环境配置
+```bash
+git clone https://github.com/你的用户名/BatteryCurveAI.git
+cd BatteryCurveAI
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```markdown
+## 🌟 项目亮点
+- **端到端流程**：从图像到文字分析，一站式解决。
+- **专业提示词工程**：精心设计的 LLM 提示词，使回答更贴近电池领域。
+- **可扩展性**：代码结构清晰，易于添加新的曲线类别或更换 LLM。
+## 🔮 未来计划
+- 增加更多曲线类型（如倍率性能、循环伏安等）。
+- 引入 RAG 技术，让 LLM 基于真实论文知识回答。
+- 部署到 Hugging Face Spaces 提供在线体验。
