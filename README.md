@@ -28,7 +28,7 @@ cd BatteryCurveAI
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-```markdown
+```
 ## 🌟 项目亮点
 - **端到端流程**：从图像到文字分析，一站式解决。
 - **专业提示词工程**：精心设计的 LLM 提示词，使回答更贴近电池领域。
