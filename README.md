@@ -5,6 +5,7 @@ BatteryCurveAnalyzer 是一个结合**计算机视觉**与**大语言模型**的
 - **智能分析**：集成 Qwen3-0.6B 语言模型，根据分类结果生成现象解释、原因分析和测试建议。
 - **Web 交互**：提供 Gradio 图形界面，上传图片即可获得分类结果+文字报告。
 ## ✨ 项目结构
+```
 BatteryCurveAI/
 ├── data/                     # 示例数据或数据存放说明（不包含实际图片）
 ├── models/                   # 训练好的分类器（.pkl）和下载说明
@@ -17,3 +18,4 @@ BatteryCurveAI/
 ├── README.md                 # 项目说明文档
 ├── LICENSE                   # 许可证（如 MIT）
 └── .gitignore                # 忽略临时文件、模型文件等
+```
