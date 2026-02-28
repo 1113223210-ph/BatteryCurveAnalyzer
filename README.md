@@ -23,7 +23,7 @@ BatteryCurveAI/
 
 ### 环境配置
 ```bash
-git clone https://github.com/你的用户名/BatteryCurveAI.git
+git clone https://github.com/1113223210-ph/BatteryCurveAI.git
 cd BatteryCurveAI
 python -m venv .venv
 source .venv/bin/activate
