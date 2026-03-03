@@ -1,5 +1,8 @@
 # BatteryCurveAnalyzer
 BatteryCurveAnalyzer 是一个结合**计算机视觉**与**大语言模型**的智能工具，能够自动识别锂电池测试曲线类型（过电位/对称电池/全电池），并生成专业的电化学分析报告，助力电池研究。
+<p align="center">
+  <img src="./assets/minivllm.png" alt="图片描述" width="50%" height="50%">
+</p>
 ## ✨ 主要功能
 - **图像分类**：基于 ResNet34 的迁移学习模型，准确识别三种电池曲线。
 - **智能分析**：集成 Qwen3-0.6B 语言模型，根据分类结果生成现象解释、原因分析和测试建议。
